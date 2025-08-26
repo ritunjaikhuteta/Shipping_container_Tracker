@@ -1,4 +1,4 @@
-# Shipping Container Tracker
+<img width="1920" height="1080" alt="Screenshot 2025-08-26 121751" src="https://github.com/user-attachments/assets/627c2d36-fa0d-4523-a445-10560098e023" /># Shipping Container Tracker
 
 ## Project Description
 
@@ -49,7 +49,6 @@ The Shipping Container Tracker project has extensive potential for expansion and
 
 ## Contract Address Details
 contract id:STQ5VZDAEYXZZNN1YPPDSCAVEVAP78VBYDH092E9.ShippingContainerTracker
-*Contract address information will be added here once deployed to the Stacks mainnet/testnet*
 
 ---
 
@@ -74,4 +73,5 @@ Automatically processes payments when containers are delivered to their destinat
 - Authorized updater system for data integrity  
 - Container existence validation
 - Automated payment processing with error handling
+
 - Immutable tracking history on blockchain
